@@ -6,6 +6,14 @@ In this repository, you will find the example code of my free video course [Gett
 
 Here is an overview of the branches:
 
-* "start" - Start of the example task
-* "result-without-tdd" - Example result without using TDD
-* "result-with-tdd" - Example result with using TDD
+* `start` - Start of the example task
+* `result-without-tdd` - Example result without using TDD
+* `result-with-tdd` - Example result with using TDD
+
+
+## Example Files
+
+* `todo.md` - Task instructions
+* `web.php`
+* `PublishPodcastController`
+* `PublishPodcastTest`
